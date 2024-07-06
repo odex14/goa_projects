@@ -1,0 +1,61 @@
+num1 = 90
+num2 = 7.5
+num3 =329
+num4 = 83
+num5 =64
+num6 = 90
+num7 = 7.5
+num8 =329
+num9 = 83
+num10 =64
+
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
+print(num4 + num1 - num1 * num5 / num3 + num9 + num6 - num7 * num10 / num8)
