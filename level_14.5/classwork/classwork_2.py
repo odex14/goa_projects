@@ -1,0 +1,12 @@
+#str
+print(type("Hello"))
+print(type("python"))
+print(type("Goa"))
+#int
+print(type(647))
+print(type(2014))
+print(type(14))
+#float
+print(type(42.3))
+print(type(14.6))
+print(type(53.4))
